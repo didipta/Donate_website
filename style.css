@@ -5,6 +5,7 @@
     padding: 0;
     text-decoration: none;
 }
+
 #Header_section
 {
     width: 100%;
@@ -97,6 +98,7 @@
 }
 .amounts h3:hover
 {
+    background-color:#f0142e29 ;
     color: #f0142e;
     border: 2px solid #f0142e;
     
@@ -109,10 +111,11 @@
 }
 .middel_form input
 {
-    width: 500px;
+    width: 570px;
     height: 30px;
     margin: 5px;
     outline: none;
+    background-color: rgba(255, 255, 255, 0);
     border: none;
     padding: 5px;
     font-size: 20px;
